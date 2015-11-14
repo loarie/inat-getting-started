@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+.getting-started {
+  padding: 40px 15px;
+  text-align: center;
+}
+svg{padding:0px 0px 50px 50px;}
+@font-face {
+    font-family: "Whitney-Book";
+    src: url(fonts/Whitney-Book-Pro.otf) format("opentype");
+}
+p, h2 { 
+    font-family: "Whitney-Book", Verdana, Tahoma;
+}
